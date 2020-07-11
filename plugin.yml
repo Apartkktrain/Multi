@@ -1,0 +1,11 @@
+name: zisseki
+version: 1.0.0
+api: 3.12.0
+author: Apartkktrain
+main: apart\zisseki\Main
+
+commands:
+
+  zisseki:
+    description: 実績を確認します。
+    usage: /zisseki
